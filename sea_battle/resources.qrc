@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Label.png</file>
+        <file>voennii-korabl</file>
+        <file>4ship.jpg</file>
+        <file>2ship.png</file>
+        <file>3ship.png</file>
+        <file>_Battlefield.png</file>
+        <file>PreparingForBattle.png</file>
+        <file>BATTLEFIELD.jpg</file>
+        <file>1ship.png</file>
+        <file>BlackDot.png</file>
+        <file>красный-крестик.png</file>
+        <file>Winner.jpg</file>
+        <file>Loser.jpg</file>
+        <file>WaitingOfConnection.jpg</file>
+        <file>WaitingOfReadyPlayer.jpg</file>
+    </qresource>
+</RCC>
